@@ -1,7 +1,7 @@
 #Take the luggage details of the customer
 #print('How many luggage do you have please?')
 #luggage_count = int(input())
-print('What is the weight in kg of your luggage?')
+print('What is the weight in kg of your luggage fyrydryetyey?')
 luggage_weight = int(input())
 
 #Conditions to be met
