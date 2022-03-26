@@ -1,0 +1,8 @@
+print('What is your name?')
+name1 = input()
+print('What is your year of birth?')
+year_of_birth = input()
+#print('Hello' + name1)
+#print('You are' + str(age) + 'years old')
+#print('You will be' + str(future_age) + 'in 10 years time')
+#print()
